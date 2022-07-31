@@ -1,0 +1,28 @@
+/* using universal selector  */
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+/* using element selector  */
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+
+/* using id selector  */
+#intro{
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+/* using class selector  */
+.description{
+    padding: 30px;
+    background-color: beige;
+}
+
+button{
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+}
